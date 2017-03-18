@@ -5,7 +5,7 @@
 
   <artifactId>logtool-core</artifactId>
   <packaging>jar</packaging>
-  <version>1.4.1</version>
+  <version>1.4.2-SNAPSHOT</version>
 
   <name>Power TAC logtool core</name>
   <description>Tool for analyzing state logs produced by the Power TAC server</description>
@@ -104,7 +104,7 @@
     <connection>scm:git:git//github.com/powertac/logtool-core.git</connection>
     <developerConnection>scm:git:git@github.com:powertac/logtool-core.git</developerConnection>
     <url>https://github.com/powertac/logtool-core/</url>
-    <tag>logtool-core-1.4.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
 </project>
