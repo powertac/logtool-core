@@ -7,6 +7,7 @@
 
   <artifactId>logtool-core</artifactId>
   <packaging>jar</packaging>
+  <version>1.4.0-SNAPSHOT</version>
 
   <name>Power TAC logtool core</name>
   <description>Tool for analyzing state logs produced by the Power TAC server</description>
@@ -15,7 +16,7 @@
   <parent>
     <groupId>org.powertac</groupId>
     <artifactId>powertac-server</artifactId>
-    <version>1.4.0-SNAPSHOT</version>
+    <version>1.4.1</version>
   </parent>
 
 
@@ -29,37 +30,37 @@
     <dependency>
       <groupId>org.powertac</groupId>
       <artifactId>server-interface</artifactId>
-      <version>${powertac-server.version}</version>
+      <version>1.4.1</version>
     </dependency>
 
     <dependency>
       <groupId>org.powertac</groupId>
       <artifactId>default-broker</artifactId>
-      <version>${powertac-server.version}</version>
+      <version>1.4.1</version>
     </dependency>
 
     <dependency>
       <groupId>org.powertac</groupId>
       <artifactId>customer-models</artifactId>
-      <version>${powertac-server.version}</version>
+      <version>1.4.1</version>
     </dependency>
 
     <dependency>
       <groupId>org.powertac</groupId>
       <artifactId>evcustomer</artifactId>
-      <version>${powertac-server.version}</version>
+      <version>1.4.1</version>
     </dependency>
 
     <dependency>
       <groupId>org.powertac</groupId>
       <artifactId>factored-customer</artifactId>
-      <version>${powertac-server.version}</version>
+      <version>1.4.1</version>
     </dependency>
 
     <dependency>
       <groupId>org.powertac</groupId>
       <artifactId>genco</artifactId>
-      <version>${powertac-server.version}</version>
+      <version>1.4.1</version>
     </dependency>
 
     <dependency>
